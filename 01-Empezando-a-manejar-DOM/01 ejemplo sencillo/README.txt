@@ -1,0 +1,1 @@
+añadir un evento al encabezado para que al hacer clic sobre el cambie a otro color.

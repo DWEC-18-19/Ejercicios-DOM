@@ -1,0 +1,1 @@
+Modificar el elemento con la clase description para que aparezca el texto todo en mayúsculas.

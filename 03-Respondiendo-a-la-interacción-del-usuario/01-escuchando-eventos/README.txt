@@ -1,0 +1,1 @@
+Añadir un escuchador de eventos a cada elemento li con addEventListener para que al pasar el ratón por un elemento (mouseover) ponga el texto el mayúsculas y al salir del elemento (mouseout) lo vuelva a dejar en minúsculas

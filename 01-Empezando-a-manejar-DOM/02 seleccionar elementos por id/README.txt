@@ -1,0 +1,1 @@
+Añadir un input con un id y un botón con otro id, al poner un color, por ejemplo red, y pulsar el botón, cambiará el encabezado que tiene otro id
